@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse_app_id">db4623947de0e9fda04ade58f4dddbb0a69b9044</string>
+    <string name="parse_client_key">69696ab53fbeed2494320aa59e279630e4e2b67c</string>
+
+    <string name="app_name">Parse Starter Project</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_driver_location">Map</string>
+</resources>
